@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DentaCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|c:\\projects\\dentacare\\dentacare.legacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|solutionrelative:dentacare.legacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|c:\\projects\\dentacare\\dentacare.legacy\\gestorcitasodontologicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|solutionrelative:dentacare.legacy\\gestorcitasodontologicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|c:\\projects\\dentacare\\dentacare.legacy\\notificacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|solutionrelative:dentacare.legacy\\notificacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|c:\\projects\\dentacare\\dentacare.legacy\\sqlserverejecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9868F40-FB39-4D96-B5F6-BE246FA9C4EC}|DentaCare.Legacy\\DentaCare.Legacy.csproj|solutionrelative:dentacare.legacy\\sqlserverejecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\Program.cs",
+              "RelativeDocumentMoniker": "DentaCare.Legacy\\Program.cs",
+              "ToolTip": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\Program.cs",
+              "RelativeToolTip": "DentaCare.Legacy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:57:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlServerEjecutor.cs",
+              "DocumentMoniker": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\SqlServerEjecutor.cs",
+              "RelativeDocumentMoniker": "DentaCare.Legacy\\SqlServerEjecutor.cs",
+              "ToolTip": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\SqlServerEjecutor.cs",
+              "RelativeToolTip": "DentaCare.Legacy\\SqlServerEjecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:48:02.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacionServicio.cs",
+              "DocumentMoniker": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\NotificacionServicio.cs",
+              "RelativeDocumentMoniker": "DentaCare.Legacy\\NotificacionServicio.cs",
+              "ToolTip": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\NotificacionServicio.cs",
+              "RelativeToolTip": "DentaCare.Legacy\\NotificacionServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:44:53.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorCitasOdontologicas.cs",
+              "DocumentMoniker": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\GestorCitasOdontologicas.cs",
+              "RelativeDocumentMoniker": "DentaCare.Legacy\\GestorCitasOdontologicas.cs",
+              "ToolTip": "C:\\Projects\\DentaCare\\DentaCare.Legacy\\GestorCitasOdontologicas.cs",
+              "RelativeToolTip": "DentaCare.Legacy\\GestorCitasOdontologicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:33:42.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
